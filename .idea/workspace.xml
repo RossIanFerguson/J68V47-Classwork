@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98dcd699-c79f-4626-a44f-45c7791e3cf8" name="Changes" comment="Lesson 2 test">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuickMaffs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reciept.java" afterDir="false" />
+    <list default="true" id="98dcd699-c79f-4626-a44f-45c7791e3cf8" name="Changes" comment="Projects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694001840765</updated>
       <workItem from="1694001841784" duration="168000" />
-      <workItem from="1694002021402" duration="7255000" />
+      <workItem from="1694002021402" duration="8546000" />
     </task>
     <task id="LOCAL-00001" summary="Haikus">
       <option name="closed" value="true" />
@@ -120,7 +117,55 @@
       <option name="project" value="LOCAL" />
       <updated>1694007013738</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="M">
+      <option name="closed" value="true" />
+      <created>1694012609596</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694012609596</updated>
+    </task>
+    <task id="LOCAL-00008" summary="M">
+      <option name="closed" value="true" />
+      <created>1694012631788</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694012631788</updated>
+    </task>
+    <task id="LOCAL-00009" summary="M">
+      <option name="closed" value="true" />
+      <created>1694012640989</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694012640989</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Projects">
+      <option name="closed" value="true" />
+      <created>1694012713982</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694012713982</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Projects">
+      <option name="closed" value="true" />
+      <created>1694013020294</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1694013020294</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Projects">
+      <option name="closed" value="true" />
+      <created>1694013101202</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694013101202</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +185,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Haikus" />
     <MESSAGE value="Lesson 2 test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 2 test" />
+    <MESSAGE value="M" />
+    <MESSAGE value="Projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projects" />
   </component>
 </project>
