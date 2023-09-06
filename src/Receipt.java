@@ -1,5 +1,5 @@
 import java.util.*;
-public class Reciept {
+public class Receipt {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println(" name of first item ");
