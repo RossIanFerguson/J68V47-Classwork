@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="98dcd699-c79f-4626-a44f-45c7791e3cf8" name="Changes" comment="Haikus" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,9 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
   "associatedIndex": -1
 }]]></component>
   <component name="ProjectId" id="2V1RwlgK7f7jfsoycmpXkxFvVaz" />
@@ -25,7 +28,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/Users/30091323/IdeaProjects/J68V47-Classwork/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -39,6 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694001840765</updated>
       <workItem from="1694001841784" duration="168000" />
+      <workItem from="1694002021402" duration="1027000" />
     </task>
     <task id="LOCAL-00001" summary="Haikus">
       <option name="closed" value="true" />
@@ -48,11 +56,46 @@
       <option name="project" value="LOCAL" />
       <updated>1694001950881</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Haikus">
+      <option name="closed" value="true" />
+      <created>1694002071354</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694002071354</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Haikus">
+      <option name="closed" value="true" />
+      <created>1694002103118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694002103118</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Haikus">
+      <option name="closed" value="true" />
+      <created>1694002314657</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694002314657</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Haikus" />
