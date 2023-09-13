@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98dcd699-c79f-4626-a44f-45c7791e3cf8" name="Changes" comment="Projects">
-      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
+    <list default="true" id="98dcd699-c79f-4626-a44f-45c7791e3cf8" name="Changes" comment="Lesson 2 test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BeeMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BeeMovie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Haiku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Haiku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,30 +32,29 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: -1
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": -1
+}]]></component>
   <component name="ProjectId" id="2V1RwlgK7f7jfsoycmpXkxFvVaz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/30091323/IdeaProjects/J68V47-Classwork/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/30091323/IdeaProjects/J68V47-Classwork/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\30091323\IdeaProjects\J68V47-Classwork\src" />
@@ -68,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694001840765</updated>
       <workItem from="1694001841784" duration="168000" />
-      <workItem from="1694002021402" duration="8546000" />
+      <workItem from="1694002021402" duration="4138000" />
     </task>
     <task id="LOCAL-00001" summary="Haikus">
       <option name="closed" value="true" />
@@ -110,79 +111,7 @@
       <option name="project" value="LOCAL" />
       <updated>1694006280375</updated>
     </task>
-    <task id="LOCAL-00006" summary="Lesson 2 test">
-      <option name="closed" value="true" />
-      <created>1694007013738</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1694007013738</updated>
-    </task>
-    <task id="LOCAL-00007" summary="M">
-      <option name="closed" value="true" />
-      <created>1694012609596</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1694012609596</updated>
-    </task>
-    <task id="LOCAL-00008" summary="M">
-      <option name="closed" value="true" />
-      <created>1694012631788</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1694012631788</updated>
-    </task>
-    <task id="LOCAL-00009" summary="M">
-      <option name="closed" value="true" />
-      <created>1694012640989</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1694012640989</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Projects">
-      <option name="closed" value="true" />
-      <created>1694012713982</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1694012713982</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Projects">
-      <option name="closed" value="true" />
-      <created>1694013020294</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1694013020294</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Projects">
-      <option name="closed" value="true" />
-      <created>1694013101202</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1694013101202</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Projects">
-      <option name="closed" value="true" />
-      <created>1694609917785</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1694609917785</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Projects">
-      <option name="closed" value="true" />
-      <created>1694609940443</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1694609940443</updated>
-    </task>
-    <option name="localTasksCounter" value="15" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,9 +131,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Haikus" />
     <MESSAGE value="Lesson 2 test" />
-    <MESSAGE value="M" />
-    <MESSAGE value="BugFix" />
-    <MESSAGE value="Projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 2 test" />
   </component>
 </project>
