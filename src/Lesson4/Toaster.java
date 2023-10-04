@@ -1,3 +1,5 @@
+package Lesson4;
+
 import java.util.*;
 public class Toaster {
     public static void main(String[] args) {
@@ -14,7 +16,7 @@ public class Toaster {
         System.out.print("Enter Desired Deposit: ");
         int Deposit = input.nextInt();
 
-        System.out.print("== Receipt ==");
+        System.out.print("== Lesson2.Receipt ==");
 
         System.out.print("\nCustomer: "+ FName.substring(0,1) + " " + SName);
 

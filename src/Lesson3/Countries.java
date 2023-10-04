@@ -1,3 +1,5 @@
+package Lesson3;
+
 import java.util.*;
 public class Countries {
     public static void main(String[] args) {

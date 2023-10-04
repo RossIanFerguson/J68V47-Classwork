@@ -1,3 +1,5 @@
+package Lesson4;
+
 import java.util.*;
 public class ShippingCharged {
     public static void main(String[] args) {
