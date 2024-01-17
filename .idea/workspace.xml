@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98dcd699-c79f-4626-a44f-45c7791e3cf8" name="Changes" comment="Projects">
-      <change afterPath="$PROJECT_DIR$/src/ProjectCode/Project.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="98dcd699-c79f-4626-a44f-45c7791e3cf8" name="Changes" comment="Projects" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +88,7 @@
       <workItem from="1695816909504" duration="5844000" />
       <workItem from="1696421049095" duration="4050000" />
       <workItem from="1705484475137" duration="240000" />
-      <workItem from="1705484722065" duration="928000" />
+      <workItem from="1705484722065" duration="1591000" />
     </task>
     <task id="LOCAL-00001" summary="Haikus">
       <option name="closed" value="true" />
@@ -230,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696424695602</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Projects">
+      <option name="closed" value="true" />
+      <created>1705485710457</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1705485710457</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
